@@ -1,4 +1,4 @@
 # Blog-Layout
-Pagina web con el diseño de un blog desarrollada con HTML y SASS.
+Diseño de un blog con un layout usando SASS, CSS GRID y Flexbox.
 
 https://codepen.io/jdelacanal/pen/QqewmZ
